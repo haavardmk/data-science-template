@@ -1,7 +1,7 @@
 # Data Project Template
 
-<a target="_blank" href="https://datalumina.com/">
-    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="Datalumina Project" />
+<a target="_blank" href="www.ai-nen.com">
+    <img src="https://img.shields.io/badge/Datalumina-Project%20Template-2856f7" alt="AI-nen" />
 </a>
 
 ## Cookiecutter Data Science

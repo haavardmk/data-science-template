@@ -1,2 +1,12 @@
+numpy
+pandas=2.2.1
+scikit-learn=1.3.0
+scipy
 ipykernel
 python-dotenv
+jupyter
+tqdm
+shap
+wandb
+mlflow
+importlib-metadata
